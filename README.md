@@ -25,11 +25,11 @@ download the files below, place them in the repository root and extract them the
 
 | File | Content | Size |
 |------|---------|------|
-| [safecache_data.zip](GDRIVE_LINK_DATA) | datasets → `data/` | 51 MB |
-| [safecache_lg3.zip](GDRIVE_LINK_LG3) | Llama Guard 3 components → `models/` | 2.9 GB |
-| [safecache_lg4.zip](GDRIVE_LINK_LG4) | Llama Guard 4 components → `models/` | 4.8 GB |
-| [safecache_sg.zip](GDRIVE_LINK_SG) | ShieldGemma components → `models/` | 4.2 GB |
-| [safecache_ag.zip](GDRIVE_LINK_AG) | Aegis Guard components → `models/` | 1.7 GB |
+| [safecache_data.zip](https://drive.google.com/file/d/1iFmCYv2--y_IgNfadjILr8g2Leu6nmZn/view?usp=sharing) | datasets → `data/` | 51 MB |
+| [safecache_lg3.zip](https://drive.google.com/file/d/16lcKKczgrZV4U0HfpjLc2x7hxBKt2KWH/view?usp=sharing) | Llama Guard 3 components → `models/` | 2.9 GB |
+| [safecache_lg4.zip](https://drive.google.com/file/d/1wxoIEgs0Lor_EBKsXJt2JsjKUseNHYhn/view?usp=sharing) | Llama Guard 4 components → `models/` | 4.8 GB |
+| [safecache_sg.zip](https://drive.google.com/file/d/1Q25qErDE8mOUoH01bCUl24VN1iuu2CA0/view?usp=sharing) | ShieldGemma components → `models/` | 4.2 GB |
+| [safecache_ag.zip](https://drive.google.com/file/d/14ypob9cBj7_SrUj7O84fK-Cpa3X5MGXq/view?usp=sharing) | Aegis Guard components → `models/` | 1.7 GB |
 
 ```bash
 unzip safecache_data.zip
