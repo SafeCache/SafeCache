@@ -67,10 +67,3 @@ In each CSV, the `lg_only` row is the guard alone (Base). The reported operating
 is the row with the lowest `ms_avg` whose `f1` is at most 0.02 below `lg_only`. For
 EE-LLM and GPTCache, only thresholds 0.70, 0.73, …, 0.97 are considered.
 
-## Optional: retrain components
-
-```bash
-bash scripts/run_finetune_guards.sh
-bash scripts/run_train_heads.sh
-rm -rf models/eellm-exits-* && bash scripts/run_eellm.sh
-```
